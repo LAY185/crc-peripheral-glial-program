@@ -1,5 +1,7 @@
 # CRC peripheral-glial program
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22548629.svg)](https://doi.org/10.5281/zenodo.22548629)
+
 This repository reproduces the analyses and figures for "Cross-platform transcriptomics identifies a recurrent tumour-associated peripheral-glial module in colorectal cancer."
 
 The study derives a 33-gene response from tumour-conditioned mouse enteric glia, fixes a 13-gene cross-platform scaffold, and tests a `TIMP1-IFITM1-CHI3L1` module in human colorectal cancer single-cell and spatial datasets. The primary CRC Atlas analysis uses paired patients as biological replicates.
@@ -90,4 +92,4 @@ The audit checks fixed gene-set cardinality, required source-data files, ignored
 
 ## Licence and citation
 
-The analysis software is available under the MIT licence. Public source datasets retain their original repository terms. Cite the archived Zenodo release using `CITATION.cff`.
+The analysis software is available under the MIT licence. Public source datasets retain their original repository terms. Cite the archived release using `CITATION.cff` and the version DOI [10.5281/zenodo.22548629](https://doi.org/10.5281/zenodo.22548629).

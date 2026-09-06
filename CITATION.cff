@@ -4,6 +4,7 @@ title: "Cross-platform transcriptomic analysis of a colorectal cancer peripheral
 type: software
 version: 1.0.0
 date-released: 2026-09-07
+doi: 10.5281/zenodo.22548629
 authors:
   - family-names: Liu
     given-names: Aiyu
