@@ -1,0 +1,2 @@
+outcome,proximity,n_tumour_specimens,observed_median_adjusted_beta,n_permutations,two_sided_fov_permutation_p,null_q025,null_q50,null_q975
+score_core13,epi_k20_fraction,15,0.0017965611968149737,2000,0.8760619690154923,-0.020562707687043366,8.83231172773129e-05,0.022443782440155095

@@ -1,0 +1,15 @@
+{
+  "filter": {
+    "obs": {
+      "index": [50332, 51683, 51761, 53987, 80916]
+    },
+    "var": {
+      "annotation_value": [
+        {
+          "name": "var_names",
+          "values": ["MT2A", "SOD2", "CCL2", "IER3", "CXCL10", "IL6", "LCN2", "SLPI", "CHI3L1", "CSF3", "CCL11", "TIMP1", "IFITM1"]
+        }
+      ]
+    }
+  }
+}

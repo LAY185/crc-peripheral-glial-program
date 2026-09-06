@@ -1,0 +1,2 @@
+seed,n_random_sets,n_paired_patients,n_studies,observed_genes,observed_median_paired_delta,observed_n_positive_patients,null_median_delta_q025,null_median_delta_q50,null_median_delta_q975,empirical_p_median_delta_one_sided,null_n_positive_q025,null_n_positive_q50,null_n_positive_q975,empirical_p_n_positive_one_sided,observed_effect_percentile
+20260906,10000,44,9,TIMP1-IFITM1-CHI3L1,0.12398973107337952,38,-0.11228059232234955,0.0023823461961001158,0.04115554317831993,9.999000099990002e-05,7.0,23.0,31.0,9.999000099990002e-05,100.0

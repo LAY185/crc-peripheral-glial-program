@@ -1,0 +1,2 @@
+contrast,n_pairs,median_delta,median_delta_bootstrap_ci_low,median_delta_bootstrap_ci_high,mean_delta,n_higher_tumour,wilcoxon_statistic,wilcoxon_p
+paired_tumour_vs_normal,8,0.16837372483441237,0.10035333647411537,0.5061237664367715,0.24532350616593201,7,2.0,0.0234375

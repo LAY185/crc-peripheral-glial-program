@@ -1,0 +1,20 @@
+[project]
+name = "crc-peripheral-glial-program"
+version = "1.0.0"
+description = "Reproducible analysis of a tumour-associated peripheral-glial transcriptional program in colorectal cancer"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "flatbuffers>=25,<26",
+  "h5py>=3.11,<4",
+  "matplotlib>=3.8,<4",
+  "numpy>=1.26,<3",
+  "pandas>=2.2,<3",
+  "pyyaml>=6,<7",
+  "requests>=2.32,<3",
+  "scipy>=1.12,<2",
+  "seaborn>=0.13,<0.14",
+  "statsmodels>=0.14,<0.15",
+]
+
+[tool.uv]
+package = false

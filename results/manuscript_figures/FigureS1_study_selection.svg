@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="512.064pt" height="336.7872pt" viewBox="0 0 512.064 336.7872" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T01:46:48.282523</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 336.7872 
+L 512.064 336.7872 
+L 512.064 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 24.61824 83.605766 
+L 149.03424 83.605766 
+Q 155.006208 83.605766 155.006208 79.73712 
+L 155.006208 37.826784 
+Q 155.006208 33.958138 149.03424 33.958138 
+L 24.61824 33.958138 
+Q 18.646272 33.958138 18.646272 37.826784 
+L 18.646272 79.73712 
+Q 18.646272 83.605766 24.61824 83.605766 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e8f0f7; stroke: #4c78a8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 193.824 83.605766 
+L 318.24 83.605766 
+Q 324.211968 83.605766 324.211968 79.73712 
+L 324.211968 37.826784 
+Q 324.211968 33.958138 318.24 33.958138 
+L 193.824 33.958138 
+Q 187.852032 33.958138 187.852032 37.826784 
+L 187.852032 79.73712 
+Q 187.852032 83.605766 193.824 83.605766 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e8f0f7; stroke: #4c78a8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 363.02976 83.605766 
+L 487.44576 83.605766 
+Q 493.417728 83.605766 493.417728 79.73712 
+L 493.417728 37.826784 
+Q 493.417728 33.958138 487.44576 33.958138 
+L 363.02976 33.958138 
+Q 357.057792 33.958138 357.057792 37.826784 
+L 357.057792 79.73712 
+Q 357.057792 83.605766 363.02976 83.605766 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e5f4f1; stroke: #2a9d8f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 151.032611 58.781952 
+Q 171.4293 58.781952 190.819758 58.781952 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 187.619758 57.181952 
+L 190.819758 58.781952 
+L 187.619758 60.381952 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #4c78a8; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 320.238371 58.781952 
+Q 340.63506 58.781952 360.025518 58.781952 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #2a9d8f; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 356.825518 57.181952 
+L 360.025518 58.781952 
+L 356.825518 60.381952 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #2a9d8f; stroke: #2a9d8f; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 24.61824 175.486118 
+L 168.9408 175.486118 
+Q 174.912768 175.486118 174.912768 171.617472 
+L 174.912768 124.871328 
+Q 174.912768 121.002682 168.9408 121.002682 
+L 24.61824 121.002682 
+Q 18.646272 121.002682 18.646272 124.871328 
+L 18.646272 171.617472 
+Q 18.646272 175.486118 24.61824 175.486118 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #fbf1dd; stroke: #c58a24; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 183.87072 175.486118 
+L 328.19328 175.486118 
+Q 334.165248 175.486118 334.165248 171.617472 
+L 334.165248 124.871328 
+Q 334.165248 121.002682 328.19328 121.002682 
+L 183.87072 121.002682 
+Q 177.898752 121.002682 177.898752 124.871328 
+L 177.898752 171.617472 
+Q 177.898752 175.486118 183.87072 175.486118 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #f8eae7; stroke: #b24a3b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 343.1232 175.486118 
+L 487.44576 175.486118 
+Q 493.417728 175.486118 493.417728 171.617472 
+L 493.417728 124.871328 
+Q 493.417728 121.002682 487.44576 121.002682 
+L 343.1232 121.002682 
+Q 337.151232 121.002682 337.151232 124.871328 
+L 337.151232 171.617472 
+Q 337.151232 175.486118 343.1232 175.486118 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #fbf1dd; stroke: #c58a24; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 170.941905 148.405594 
+Q 176.407296 148.405594 180.866457 148.405594 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #c58a24; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 177.666457 146.805594 
+L 180.866457 148.405594 
+L 177.666457 150.005594 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #c58a24; stroke: #c58a24; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 330.194385 148.405594 
+Q 335.659776 148.405594 340.118937 148.405594 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #c58a24; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 336.918937 146.805594 
+L 340.118937 148.405594 
+L 336.918937 150.005594 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #c58a24; stroke: #c58a24; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 24.61824 251.24711 
+L 168.9408 251.24711 
+Q 174.912768 251.24711 174.912768 247.378464 
+L 174.912768 195.796512 
+Q 174.912768 191.927866 168.9408 191.927866 
+L 24.61824 191.927866 
+Q 18.646272 191.927866 18.646272 195.796512 
+L 18.646272 247.378464 
+Q 18.646272 251.24711 24.61824 251.24711 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e5f4f1; stroke: #2a9d8f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 183.87072 251.24711 
+L 328.19328 251.24711 
+Q 334.165248 251.24711 334.165248 247.378464 
+L 334.165248 195.796512 
+Q 334.165248 191.927866 328.19328 191.927866 
+L 183.87072 191.927866 
+Q 177.898752 191.927866 177.898752 195.796512 
+L 177.898752 247.378464 
+Q 177.898752 251.24711 183.87072 251.24711 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e8f0f7; stroke: #4c78a8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 343.1232 251.24711 
+L 487.44576 251.24711 
+Q 493.417728 251.24711 493.417728 247.378464 
+L 493.417728 195.796512 
+Q 493.417728 191.927866 487.44576 191.927866 
+L 343.1232 191.927866 
+Q 337.151232 191.927866 337.151232 195.796512 
+L 337.151232 247.378464 
+Q 337.151232 251.24711 343.1232 251.24711 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #e8f0f7; stroke: #4c78a8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 24.61824 318.948422 
+L 487.44576 318.948422 
+Q 493.417728 318.948422 493.417728 315.079776 
+L 493.417728 271.557504 
+Q 493.417728 267.688858 487.44576 267.688858 
+L 24.61824 267.688858 
+Q 18.646272 267.688858 18.646272 271.557504 
+L 18.646272 315.079776 
+Q 18.646272 318.948422 24.61824 318.948422 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #f2f4f7; stroke: #6b7280; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 98.423111 248.519235 
+Q 114.199053 259.468881 129.148363 269.844785 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #2a9d8f; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 127.431824 266.705757 
+L 129.148363 269.844785 
+L 125.607217 269.334599 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #2a9d8f; stroke: #2a9d8f; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 256.032 249.376659 
+Q 256.032 259.466615 256.032 268.55034 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 257.632 265.35034 
+L 256.032 268.55034 
+L 254.432 265.35034 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #4c78a8; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 413.640889 248.519235 
+Q 397.864947 259.468881 382.915637 269.844785 
+" clip-path="url(#pf71304b66b)" style="fill: none; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 386.456783 269.334599 
+L 382.915637 269.844785 
+L 384.632176 266.705757 
+z
+" clip-path="url(#pf71304b66b)" style="fill: #4c78a8; stroke: #4c78a8; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #243447" x="7.2" y="17.860027" transform="rotate(-0 7.2 17.860027)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #243447" x="24.61824" y="17.496013" transform="rotate(-0 24.61824 17.496013)">Programme derivation and prespecification</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4c78a8" x="33.576192" y="51.273866" transform="rotate(-0 33.576192 51.273866)">GSE231802 perturbation</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 67.041049)">Mouse enteric glia</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 74.123685)">3 conditions x 3 time points</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 81.15476)">n = 4 per group/time</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4c78a8" x="202.781952" y="51.273866" transform="rotate(-0 202.781952 51.273866)">Time-consistent response</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(202.781952 67.077611)">log2FC &gt; 0.5 and BH FDR &lt; 0.05</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(202.781952 74.114779)">at two or more time points</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(202.781952 81.127103)">33 genes retained</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2a9d8f" x="371.987712" y="51.273866" transform="rotate(-0 371.987712 51.273866)">Frozen cross-platform scaffold</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(371.987712 67.049955)">13 genes measured by both</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(371.987712 74.151342)">CosMx panel versions</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(371.987712 81.75101)">Frozen before human tests</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #243447" x="7.2" y="112.964251" transform="rotate(-0 7.2 112.964251)">b</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #243447" x="24.61824" y="112.600237" transform="rotate(-0 24.61824 112.600237)">Human validation resources and analysis units</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #c58a24" x="33.576192" y="138.31841" transform="rotate(-0 33.576192 138.31841)">CRC Atlas input</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 154.301218)">4,264,929 cells</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 161.367448)">15,352 annotated Schwann cells</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 168.206804)">279 patients, 560 samples, 32 studies</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #b24a3b" x="192.828672" y="138.31841" transform="rotate(-0 192.828672 138.31841)">Eligibility and independence</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 154.157311)">Excluded Lee_2020_Nat_Genet</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 161.124167)">Primary tumour + adjacent normal</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 168.794147)">&gt;=5 Schwann cells in each tissue</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #c58a24" x="352.081152" y="138.31841" transform="rotate(-0 352.081152 138.31841)">Primary validation set</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 154.120749)">44 paired patients</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 161.168229)">9 independent studies</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 168.23446)">Patient pair = inferential unit</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2a9d8f" x="33.576192" y="209.243594" transform="rotate(-0 33.576192 209.243594)">CosMx GSE303070</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 225.254058)">846,469 cells; 352 fields of view</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 232.294507)">803,109 cells after author QC</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 239.159644)">29,829 Schwann cells; 24 specimens</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 246.170562)">16 donors; 8 paired donors</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4c78a8" x="192.828672" y="209.243594" transform="rotate(-0 192.828672 209.243594)">GSE132465</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 225.019683)">305 enteric-glial cells</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 232.058257)">&gt;=3 cells per patient-tissue summary</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(192.828672 239.30355)">12 summaries: 3 tumour, 9 normal</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4c78a8" x="352.081152" y="209.243594" transform="rotate(-0 352.081152 209.243594)">GSE144735</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 225.019683)">463 enteric-glial cells</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 232.058257)">&gt;=3 cells per patient-tissue summary</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(352.081152 239.30355)">9 summaries: 3 tumour, 6 normal</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #243447" x="33.576192" y="285.004586" transform="rotate(-0 33.576192 285.004586)">Inference hierarchy</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 300.810206)">Programme generator: culture replicate   |   Primary test: paired patient   |   Orthogonal test: paired donor   |   Supportive tests: patient-tissue summary</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #243447" transform="translate(33.576192 307.846905)">Cells contribute to aggregate scores; they do not enter inferential tests as independent replicates.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf71304b66b">
+   <rect x="7.2" y="7.2" width="497.664" height="322.3872"/>
+  </clipPath>
+ </defs>
+</svg>

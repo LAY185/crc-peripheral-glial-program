@@ -1,0 +1,70 @@
+perturbation_derived_program_33:
+  - CXCL2
+  - CXCL1
+  - STEAP4
+  - MT2
+  - CCL7
+  - CEBPD
+  - SOD2
+  - CCL2
+  - IER3
+  - NOS2
+  - CXCL10
+  - GBP2
+  - IL6
+  - VNN1
+  - LCN2
+  - SAA3
+  - SAA1
+  - SAA2
+  - SLPI
+  - GBP5
+  - U90926
+  - CHIL1
+  - CSF3
+  - HP
+  - IIGP1
+  - CP
+  - ARG2
+  - IL13RA2
+  - CCL11
+  - PTGS2OS2
+  - TIMP1
+  - IFITM1
+  - FTH1
+
+# Name retained for compatibility with scripts/01_marker_feasibility.py.
+reactive_egc_conserved:
+  - MT2A
+  - SOD2
+  - CCL2
+  - IER3
+  - CXCL10
+  - IL6
+  - LCN2
+  - SLPI
+  - CHI3L1
+  - CSF3
+  - CCL11
+  - TIMP1
+  - IFITM1
+
+cross_platform_scaffold_13:
+  - MT2A
+  - SOD2
+  - CCL2
+  - IER3
+  - CXCL10
+  - IL6
+  - LCN2
+  - SLPI
+  - CHI3L1
+  - CSF3
+  - CCL11
+  - TIMP1
+  - IFITM1
+
+convergent_human_module_3:
+  - TIMP1
+  - IFITM1
+  - CHI3L1

@@ -1,0 +1,6 @@
+stage,resource,input,filter,output,biological_unit,role
+Programme derivation,GSE231802,Tumour-conditioned mouse enteric glia; 3 time points; n=4 per group/time,log2 fold change >0.5 and BH FDR <0.05 at >=2 time points,33-gene programme; 13 genes shared by both CosMx panels,Culture replicate,Programme generator
+Primary validation,CRC Atlas,"4,264,929 cells; 15,352 annotated Schwann cells; 279 patients; 560 samples; 32 studies",Exclude Lee_2020_Nat_Genet; primary tumour and adjacent normal; >=5 Schwann cells per tissue,44 paired patients from 9 studies,Paired patient,Independent population validation
+Orthogonal validation,GSE303070,"846,469 cells across 352 fields of view",Author QC labels; author Schwann annotation; specimen pseudobulk,"803,109 QC-passing cells; 29,829 Schwann cells; 24 specimens; 16 donors; 8 paired donors",Paired donor,CosMx validation and module nomination
+Supportive validation,GSE132465,305 annotated enteric-glial cells,>=3 cells per patient-tissue summary,12 summaries: 3 tumour and 9 normal,Patient-tissue summary,Supportive single-cell cohort
+Supportive validation,GSE144735,463 annotated enteric-glial cells,>=3 cells per patient-tissue summary,9 summaries: 3 tumour and 6 normal,Patient-tissue summary,Supportive single-cell cohort

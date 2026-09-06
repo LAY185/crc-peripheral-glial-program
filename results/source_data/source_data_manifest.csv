@@ -1,0 +1,18 @@
+figure_panel,evidence,source_data_file,figure_script
+Figure 1a,Perturbation design schematic,not_applicable,scripts/12_manuscript_figures.py
+Figure 1b-c,Time-resolved differential-expression effects and retained genes,results/source_data/Figure1_reactive_program.csv,scripts/12_manuscript_figures.py
+Figure 2a,CRC Atlas paired-patient module scores,results/source_data/Figure2_CRC_atlas_paired_patients.csv,scripts/12_manuscript_figures.py
+Figure 2b,CRC Atlas study-level median effects,results/source_data/Figure2_CRC_atlas_studies.csv,scripts/12_manuscript_figures.py
+Figure 2c,Cell-count threshold sensitivity,results/source_data/Figure2_CRC_atlas_threshold_sensitivity.csv,scripts/12_manuscript_figures.py
+Figure 2d,Leave-one-study-out sensitivity,results/source_data/Figure2_CRC_atlas_leave_one_study_out.csv,scripts/12_manuscript_figures.py
+Figure 3a,CosMx paired-donor scaffold scores,results/source_data/Figure3_paired_scores.csv,scripts/12_manuscript_figures.py
+Figure 3b,CosMx paired gene differences,results/source_data/Figure3_paired_gene_deltas.csv,scripts/12_manuscript_figures.py
+Figure 3c,CosMx gene-level paired tests,results/source_data/Figure3_gene_tests.csv,scripts/12_manuscript_figures.py
+Figure 4a,GSE132465 supportive scores,results/source_data/Figure4_GSE132465_scores.csv,scripts/12_manuscript_figures.py
+Figure 4b,GSE144735 supportive scores,results/source_data/Figure4_GSE144735_scores.csv,scripts/12_manuscript_figures.py
+Figure 4c,Supportive cohort threshold sensitivity,results/source_data/Figure4_scrna_threshold_sensitivity.csv,scripts/12_manuscript_figures.py
+Figure 4d,Spatial-boundary estimates,results/source_data/Figure4_spatial_boundary.csv,scripts/12_manuscript_figures.py
+Figure S1,Study-selection counts filters and biological units,results/source_data/FigureS1_study_selection.csv,scripts/21_study_selection_and_source_index.py
+Figure S2a-b,CRC Atlas expression-matched random-set null,results/source_data/FigureS2_expression_matched_random_set_null.csv,scripts/23_crc_atlas_expression_matched_null.py
+Figure S2c,Adjacent-normal matching diagnostics,results/source_data/FigureS2_matching_diagnostics.csv,scripts/23_crc_atlas_expression_matched_null.py
+Figure S2 sensitivity,Matched-pool sensitivity analyses,results/source_data/FigureS2_matched_null_sensitivity.csv,scripts/23_crc_atlas_expression_matched_null.py

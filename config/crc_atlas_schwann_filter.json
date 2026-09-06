@@ -1,0 +1,12 @@
+{
+  "filter": {
+    "obs": {
+      "annotation_value": [
+        {
+          "name": "atlas_cell_type_middle",
+          "values": ["Schwann cell"]
+        }
+      ]
+    }
+  }
+}

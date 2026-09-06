@@ -1,0 +1,35 @@
+.DS_Store
+.RData
+.Rhistory
+.venv/
+.uv-cache/
+.uv-python/
+.mplconfig/
+__pycache__/
+*.py[cod]
+
+# Public datasets and analysis-ready cell-level extracts are intentionally absent.
+data/raw/**
+data/processed/**
+!data/README.md
+
+# Remote byte-range and API caches must never be committed.
+results/cache/
+*.fbs
+*.h5
+*.h5ad
+*.h5seurat
+*.loom
+*.mtx
+*.rds
+*.parquet
+*.tar
+*.tar.gz
+*.zip
+*.tiff
+
+# Local logs, QA renders, manuscript drafts and editor files.
+logs/
+qa_*/
+manuscript/
+~$*

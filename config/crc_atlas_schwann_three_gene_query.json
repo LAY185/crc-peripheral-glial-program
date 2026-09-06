@@ -1,0 +1,20 @@
+{
+  "filter": {
+    "obs": {
+      "annotation_value": [
+        {
+          "name": "atlas_cell_type_middle",
+          "values": ["Schwann cell"]
+        }
+      ]
+    },
+    "var": {
+      "annotation_value": [
+        {
+          "name": "var_names",
+          "values": ["TIMP1", "IFITM1", "CHI3L1"]
+        }
+      ]
+    }
+  }
+}

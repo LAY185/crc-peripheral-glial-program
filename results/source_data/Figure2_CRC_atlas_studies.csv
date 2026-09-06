@@ -1,0 +1,10 @@
+score,study_id,n_paired_patients,median_delta,n_positive
+three_gene,Chen_2024_Cancer_Cell,13,0.0134036014173875,9
+three_gene,MUI_Innsbruck,2,0.0368573465917043,2
+three_gene,Pelka_2021_Cell,2,0.0872776736372031,2
+three_gene,Qi_2022_Nat_Commun,2,0.0990272054902806,2
+three_gene,Li_2023_Cancer_Cell,1,0.1191753053202518,1
+three_gene,Uhlitz_2021_EMBO_Mol_Med,3,0.1371290491534905,3
+three_gene,Qian_2020_Cell_Res,6,0.171641540083485,6
+three_gene,Qin_2023_Cell_Rep_Med,4,0.2326265296176414,4
+three_gene,Joanito_2022_Nat_Genet,11,0.3031200177764699,9

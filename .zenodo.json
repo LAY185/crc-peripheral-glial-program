@@ -1,0 +1,15 @@
+{
+  "title": "Cross-platform transcriptomic analysis of a colorectal cancer peripheral-glial program",
+  "description": "Analysis scripts, fixed gene sets, intermediate summary tables, source data, and figure-generation code supporting a cross-platform study of a tumour-associated peripheral-glial transcriptional program in colorectal cancer.",
+  "creators": [
+    {"name": "Liu, Aiyu", "affiliation": "Chengdu University of Traditional Chinese Medicine"},
+    {"name": "Zeng, Anqi", "affiliation": "Sichuan Academy of Chinese Medicine Sciences"},
+    {"name": "Song, Linjiang", "affiliation": "Chengdu University of Traditional Chinese Medicine"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": ["colorectal cancer", "enteric glia", "Schwann cells", "single-cell RNA sequencing", "spatial transcriptomics"]
+}

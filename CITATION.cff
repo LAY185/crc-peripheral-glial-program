@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "Cross-platform transcriptomic analysis of a colorectal cancer peripheral-glial program"
+type: software
+version: 1.0.0
+date-released: 2026-09-07
+authors:
+  - family-names: Liu
+    given-names: Aiyu
+    affiliation: Chengdu University of Traditional Chinese Medicine
+  - family-names: Zeng
+    given-names: Anqi
+    affiliation: Sichuan Academy of Chinese Medicine Sciences
+  - family-names: Song
+    given-names: Linjiang
+    affiliation: Chengdu University of Traditional Chinese Medicine
+license: MIT
+keywords:
+  - colorectal cancer
+  - enteric glia
+  - Schwann cells
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+repository-code: "https://github.com/LAY185/crc-peripheral-glial-program"

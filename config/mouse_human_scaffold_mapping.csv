@@ -1,0 +1,14 @@
+mouse_symbol,human_symbol,ensembl_human_gene_id,ensembl_orthology_type,selection_note
+Mt2,MT2A,ENSG00000125148,family_member_selection,Ensembl release 116 returned no human orthologue for ENSMUSG00000031762; MT2A was selected as the human metallothionein-2 family member and measured-panel counterpart
+Sod2,SOD2,ENSG00000291237,ortholog_one2one,unique Ensembl human orthologue
+Ccl2,CCL2,ENSG00000108691,ortholog_one2one,unique Ensembl human orthologue
+Ier3,IER3,ENSG00000137331,ortholog_one2one,unique Ensembl human orthologue
+Cxcl10,CXCL10,ENSG00000169245,ortholog_one2one,unique Ensembl human orthologue
+Il6,IL6,ENSG00000136244,ortholog_one2one,unique Ensembl human orthologue
+Lcn2,LCN2,ENSG00000148346,ortholog_one2one,unique Ensembl human orthologue
+Slpi,SLPI,ENSG00000124107,ortholog_one2one,unique Ensembl human orthologue
+Chil1,CHI3L1,ENSG00000133048,ortholog_one2one,unique Ensembl human orthologue
+Csf3,CSF3,ENSG00000108342,ortholog_one2one,unique Ensembl human orthologue
+Ccl11,CCL11,ENSG00000172156,ortholog_one2one,unique Ensembl human orthologue
+Timp1,TIMP1,ENSG00000102265,ortholog_one2one,unique Ensembl human orthologue
+Ifitm1,IFITM1,ENSG00000185885,ortholog_many2many,same-symbol human member selected from an Ensembl orthology group that also contains IFITM2 and IFITM3
